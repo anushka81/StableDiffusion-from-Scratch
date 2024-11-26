@@ -4,7 +4,7 @@ from torch.nn import functional as F
 import math 
 
 class SelfAttention(nn.Module):
-    def __init__(self, n_heads : int, d_head : int, d_embedding : int, in_proj_bias = True, out_proj_bias = True):
+    def __init__(self, n_heads, d_embedding, in_proj_bias = True, out_proj_bias = True):
         super().__init__()
         
         self.in_proj = nn.Linear(d_embedding, 3 * d_embedding, bias = in_proj_bias)
