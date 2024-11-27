@@ -14,7 +14,12 @@
 3. (Optional) Add a **negative prompt** if needed.
 4. Run the notebook and **voilà** 🎨, your image will be generated!
 
-## Screenshot 📸
+## Demo Generated Images 👩🏼‍💻
+![image](https://github.com/user-attachments/assets/f7cca33b-f4ed-47a4-8bab-b7bedd8e024f)
 
-![Stable Diffusion Example](screenshot.png)  
-*Example output from Stable Diffusion*
+![image](https://github.com/user-attachments/assets/95c4d4db-bc0d-42cf-ba94-299e5998a8dd)
+
+## Contributing 👩🏼‍💻
+Feel free to open issues, fork the repository, and submit pull requests to improve the implementation or add new features. Contributions are always welcome!
+
+
