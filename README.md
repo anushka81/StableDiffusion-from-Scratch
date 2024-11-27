@@ -1,10 +1,14 @@
 # Stable Diffusion from Scratch 🖼️
 
+## Overview🌟
+
+This project implements Stable Diffusion from scratch for both text-to-image and image-to-image generation, creating high-quality images from text prompts or transforming existing images. It uses core libraries and techniques inspired by state-of-the-art generative models.
+
 ## Setup 🛠️
 
 **Download Weights and Tokenizer Files**:
-   - Download `vocab.json` and `merges.txt` from [Hugging Face Tokenizer](https://huggingface.co/stable-diffusion-v1-5/stable-diffusion-v1-5/tree/main/tokenizer) and save them in the `data` folder.
-   - Download `v1-5-pruned-emaonly.ckpt` from [Hugging Face Weights](https://huggingface.co/stable-diffusion-v1-5/stable-diffusion-v1-5/tree/main) and save it in the `data` folder.
+   - Download `vocab.json` and `merges.txt` from [Hugging Face Tokenizer](https://huggingface.co/stable-diffusion-v1-5/stable-diffusion-v1-5/tree/main/tokenizer)🤗 and save them in the `data` folder.
+   - Download `v1-5-pruned-emaonly.ckpt` from [Hugging Face Weights](https://huggingface.co/stable-diffusion-v1-5/stable-diffusion-v1-5/tree/main)🤗 and save it in the `data` folder.
 
 
 ## Usage 🚀
