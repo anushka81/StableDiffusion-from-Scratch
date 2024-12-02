@@ -23,6 +23,12 @@ This project implements Stable Diffusion from scratch for both text-to-image and
 
 ![image](https://github.com/user-attachments/assets/95c4d4db-bc0d-42cf-ba94-299e5998a8dd)
 
+![image](https://github.com/user-attachments/assets/822fbf75-c785-4e59-b9e1-a2a475f4b6ee)
+
+![image](https://github.com/user-attachments/assets/efabd3fb-2dda-40b5-8e7d-0d49d416a78e)
+
+
+
 ## Contributing 👩🏼‍💻
 Feel free to open issues, fork the repository, and submit pull requests to improve the implementation or add new features. Contributions are always welcome!
 
