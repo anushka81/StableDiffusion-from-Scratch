@@ -10,6 +10,8 @@ This project implements Stable Diffusion from scratch for both text-to-image and
    - Download `vocab.json` and `merges.txt` from [Hugging Face Tokenizer](https://huggingface.co/stable-diffusion-v1-5/stable-diffusion-v1-5/tree/main/tokenizer)🤗 and save them in the `data` folder.
    - Download `v1-5-pruned-emaonly.ckpt` from [Hugging Face Weights](https://huggingface.co/stable-diffusion-v1-5/stable-diffusion-v1-5/tree/main)🤗 and save it in the `data` folder.
 
+## Demo 💻
+[Live Link](https://huggingface.co/spaces/annie08/Text-or-Image-to-Image-Scratch-Implementation)
 
 ## Usage 🚀
 
